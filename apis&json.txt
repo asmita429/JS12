@@ -1,0 +1,23 @@
+1. user req is sent to server(eg.amazon server), 
+server sends res(html,css,js) to web browser.
+
+2. API(application programming interface)/waiter
+ returns data in the form of JSON
+
+user -> API -> Server
+
+http api = web api
+
+3. some random apis
+https://www.catfact.ninja/fact
+https://www.boredapi.com/api/activity
+https://dog.ceo/api/breeds/image/random
+
+
+4. JSON is a data format
+JavaScript object notation www.json.org
+upgraded format of XML(extensible markup language)
+
+5. jsonlint -> check json data valid or not
+json has no data type "undefined"
+
